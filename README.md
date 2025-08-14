@@ -12,14 +12,10 @@
 - 🎓 B.Tech in Computer Science & Design, **St. Peter's Engineering College** (2022–2026)
 - 🏆 Current CGPA: **83%**
 - 💼 **SDE Intern at Techsprout Solutions (June 2025 – Present)**
-  - Building a Job Portal with Laravel, MySQL, REST APIs
-- 🔭 I’m currently working on:
+  - Building a AI powered Web Applications using Django ,  Laravel, MySQL, REST APIs .
+- 🔭 My Personal Projects
   - 🩺 [**Medi-Guide**](https://medi-guide.free.nf/) – Medicine Locator & Pharmacy Inventory Manager
   - 🎓 [**Student-Sphere**](https://studentsphere.free.nf/) – Centralized Study Resource Sharing Platform
-
-- 🧠 I’m currently learning: **AI-integrated systems**, **Advanced Laravel**, and **Sales Forecasting**
-- 👯 I’m looking to collaborate on **DSA-based backend systems** and **intelligent APIs**
-- 💬 Ask me about **Laravel**, **MySQL**, **API Design**, and **Django**
 
 ---
 
