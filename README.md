@@ -24,7 +24,7 @@
 | Project | Description | Tech Stack | Links |
 |--------|-------------|------------|-------|
 | **Student-Sphere** | A PDF-sharing hub for students with real-time access. | Laravel, MySQL, Bootstrap | [🌐Live](https://studentsphere.free.nf/) |
-| **Medi-Guide** | Pharmacy stock + location-based medicine search. | Laravel, JS, MySQL | [🌐Live](https://medi-guide.free.nf/) |
+| **Medi-Guide** | Pharmacy stock + location-based medicine search. | Laravel, JS, MySQL | [🌐Live](https://md.gotrooba.ai/) |
 | **Laravel API** | Lightweight CRUD API for product inventory. | Laravel, MySQL, Thunder Client | [📂GitHub](https://github.com/ChitturiDurgakishore/APIusingLARAVEL) |
 
 ---
